@@ -18,7 +18,7 @@ and display results on screen
 
 import streamlit as st
 from datetime import date
-import google-generativeai as genai
+import google.generativeai as genai
 import os 
 
 # Set your Gemini API Key here
