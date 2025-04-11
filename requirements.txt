@@ -1,4 +1,4 @@
 numpy==2.2.4
 protobuf==5.29.3
-streamlit==1.41.1
+streamlit==1.44.1
 google-generativeai==1.10.0
